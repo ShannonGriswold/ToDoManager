@@ -1,3 +1,4 @@
+-- Completed by Mollie Ackerman and Shannon Griswold
 add list toAdd = toAdd : list
 
 
