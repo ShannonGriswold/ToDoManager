@@ -1,4 +1,4 @@
-add list toAdd = list ++ [toAdd]
+add list toAdd = toAdd : list
 
 
 printTask (x:xs) = do 
